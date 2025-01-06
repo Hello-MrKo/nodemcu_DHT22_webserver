@@ -22,7 +22,7 @@
 
 // WiFi 설정
 const char* ssid = "farmersday";                                    // 공유기 주소 
-const char* password = "a88888888";                                  // 공유기 비밀번호              
+const char* password = "88888888";                                  // 공유기 비밀번호              
 
 
 
